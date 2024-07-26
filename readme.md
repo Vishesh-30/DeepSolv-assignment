@@ -66,7 +66,7 @@ DeepSolv-assignment/
 │   ├── data_extraction.py      # Data extraction from PDFs, websites, YouTube
 │   ├── embedding_generator.py  # Generates embeddings using SentenceTransformer
 │   ├── vector_store.py         # Manages FAISS vector store operations
-├── app.py                      # Main Streamlit application
+├── app.py                      # Main python file
 ├── chatbot.py                  # Chatbot application using Gemini API
 ├── requirements.txt            # Required Python packages
 ├── .env                        # Environment variables
